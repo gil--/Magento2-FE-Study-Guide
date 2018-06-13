@@ -427,6 +427,10 @@ Demonstrate an understanding of the container blocks provided in the Magento che
 
 #### 9.2 Translate theme strings for .phtml, emails, UI components, .js files
 
+#### CMS Translations
+
+`{{trans "Translate me"}}`
+
 ##### Demonstrate an understanding of string translation in JavaScript.
 
 ## Magento Development Process
